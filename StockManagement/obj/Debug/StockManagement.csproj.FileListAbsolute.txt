@@ -1,0 +1,444 @@
+D:\work\c#_work\mywork\BookSchool\work\StockManagement\StockManagement\bin\Debug\StockManagement.exe.config
+D:\work\c#_work\mywork\BookSchool\work\StockManagement\StockManagement\bin\Debug\StockManagement.exe
+D:\work\c#_work\mywork\BookSchool\work\StockManagement\StockManagement\bin\Debug\StockManagement.pdb
+D:\work\c#_work\mywork\BookSchool\work\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.AssemblyReference.cache
+D:\work\c#_work\mywork\BookSchool\work\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.SuggestedBindingRedirects.cache
+D:\work\c#_work\mywork\BookSchool\work\StockManagement\StockManagement\obj\Debug\StockManagement.Form1.resources
+D:\work\c#_work\mywork\BookSchool\work\StockManagement\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+D:\work\c#_work\mywork\BookSchool\work\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+D:\work\c#_work\mywork\BookSchool\work\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+D:\work\c#_work\mywork\BookSchool\work\StockManagement\StockManagement\obj\Debug\StockManagement.exe
+D:\work\c#_work\mywork\BookSchool\work\StockManagement\StockManagement\obj\Debug\StockManagement.pdb
+D:\work\c#_work\mywork\BookSchool\work\StockManagement\StockManagement\obj\Debug\StockManagement.Lib.Frame.MasterView.resources
+D:\work\c#_work\mywork\BookSchool\work\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.ContactView.resources
+D:\work\c#_work\mywork\BookSchool\work\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.InItemsView.resources
+D:\work\c#_work\mywork\BookSchool\work\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.OutItemsView.resources
+D:\work\c#_work\mywork\BookSchool\work\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.StockView.resources
+D:\work\c#_work\mywork\BookSchool\work\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.StockPop.resources
+D:\work\c#_work\mywork\BookSchool\work\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemSearchPop.resources
+D:\work\c#_work\mywork\BookSchool\work\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ContactPop.resources
+D:\work\c#_work\mywork\BookSchool\work\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemInPop.resources
+D:\work\c#_work\mywork\BookSchool\work\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemOutPop.resources
+D:\work\c#_work\mywork\BookSchool\work\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ConnectSettingPop.resources
+C:\Users\User\Downloads\01\StockManagement\StockManagement\bin\Debug\StockManagement.exe.config
+C:\Users\User\Downloads\01\StockManagement\StockManagement\bin\Debug\StockManagement.exe
+C:\Users\User\Downloads\01\StockManagement\StockManagement\bin\Debug\StockManagement.pdb
+C:\Users\User\Downloads\01\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\01\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\01\StockManagement\StockManagement\obj\Debug\StockManagement.Lib.Frame.MasterView.resources
+C:\Users\User\Downloads\01\StockManagement\StockManagement\obj\Debug\StockManagement.Form1.resources
+C:\Users\User\Downloads\01\StockManagement\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+C:\Users\User\Downloads\01\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ConnectSettingPop.resources
+C:\Users\User\Downloads\01\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ContactPop.resources
+C:\Users\User\Downloads\01\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemInPop.resources
+C:\Users\User\Downloads\01\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemOutPop.resources
+C:\Users\User\Downloads\01\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemSearchPop.resources
+C:\Users\User\Downloads\01\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.StockPop.resources
+C:\Users\User\Downloads\01\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.ContactView.resources
+C:\Users\User\Downloads\01\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.InItemsView.resources
+C:\Users\User\Downloads\01\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.OutItemsView.resources
+C:\Users\User\Downloads\01\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.StockView.resources
+C:\Users\User\Downloads\01\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+C:\Users\User\Downloads\01\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\01\StockManagement\StockManagement\obj\Debug\StockManagement.exe
+C:\Users\User\Downloads\01\StockManagement\StockManagement\obj\Debug\StockManagement.pdb
+D:\ksm\프로젝트실습\최대현\work\02T\StockManagement\StockManagement\bin\Debug\StockManagement.exe.config
+D:\ksm\프로젝트실습\최대현\work\02T\StockManagement\StockManagement\bin\Debug\StockManagement.exe
+D:\ksm\프로젝트실습\최대현\work\02T\StockManagement\StockManagement\bin\Debug\StockManagement.pdb
+D:\ksm\프로젝트실습\최대현\work\02T\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.AssemblyReference.cache
+D:\ksm\프로젝트실습\최대현\work\02T\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.SuggestedBindingRedirects.cache
+D:\ksm\프로젝트실습\최대현\work\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Lib.Frame.MasterView.resources
+D:\ksm\프로젝트실습\최대현\work\02T\StockManagement\StockManagement\obj\Debug\StockManagement.MainForm.resources
+D:\ksm\프로젝트실습\최대현\work\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+D:\ksm\프로젝트실습\최대현\work\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ConnectSettingPop.resources
+D:\ksm\프로젝트실습\최대현\work\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ContactPop.resources
+D:\ksm\프로젝트실습\최대현\work\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemInPop.resources
+D:\ksm\프로젝트실습\최대현\work\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemOutPop.resources
+D:\ksm\프로젝트실습\최대현\work\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemSearchPop.resources
+D:\ksm\프로젝트실습\최대현\work\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.StockPop.resources
+D:\ksm\프로젝트실습\최대현\work\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.ContactView.resources
+D:\ksm\프로젝트실습\최대현\work\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.InItemsView.resources
+D:\ksm\프로젝트실습\최대현\work\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.OutItemsView.resources
+D:\ksm\프로젝트실습\최대현\work\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.StockView.resources
+D:\ksm\프로젝트실습\최대현\work\02T\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+D:\ksm\프로젝트실습\최대현\work\02T\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+D:\ksm\프로젝트실습\최대현\work\02T\StockManagement\StockManagement\obj\Debug\StockManagement.exe
+D:\ksm\프로젝트실습\최대현\work\02T\StockManagement\StockManagement\obj\Debug\StockManagement.pdb
+C:\Users\User\Downloads\02T-20230427T062949Z-001\02T\StockManagement\StockManagement\bin\Debug\StockManagement.exe.config
+C:\Users\User\Downloads\02T-20230427T062949Z-001\02T\StockManagement\StockManagement\bin\Debug\StockManagement.exe
+C:\Users\User\Downloads\02T-20230427T062949Z-001\02T\StockManagement\StockManagement\bin\Debug\StockManagement.pdb
+C:\Users\User\Downloads\02T-20230427T062949Z-001\02T\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\02T-20230427T062949Z-001\02T\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\02T-20230427T062949Z-001\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Lib.Frame.MasterView.resources
+C:\Users\User\Downloads\02T-20230427T062949Z-001\02T\StockManagement\StockManagement\obj\Debug\StockManagement.MainForm.resources
+C:\Users\User\Downloads\02T-20230427T062949Z-001\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+C:\Users\User\Downloads\02T-20230427T062949Z-001\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ConnectSettingPop.resources
+C:\Users\User\Downloads\02T-20230427T062949Z-001\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ContactPop.resources
+C:\Users\User\Downloads\02T-20230427T062949Z-001\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemInPop.resources
+C:\Users\User\Downloads\02T-20230427T062949Z-001\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemOutPop.resources
+C:\Users\User\Downloads\02T-20230427T062949Z-001\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemSearchPop.resources
+C:\Users\User\Downloads\02T-20230427T062949Z-001\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.StockPop.resources
+C:\Users\User\Downloads\02T-20230427T062949Z-001\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.ContactView.resources
+C:\Users\User\Downloads\02T-20230427T062949Z-001\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.InItemsView.resources
+C:\Users\User\Downloads\02T-20230427T062949Z-001\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.OutItemsView.resources
+C:\Users\User\Downloads\02T-20230427T062949Z-001\02T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.StockView.resources
+C:\Users\User\Downloads\02T-20230427T062949Z-001\02T\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+C:\Users\User\Downloads\02T-20230427T062949Z-001\02T\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\02T-20230427T062949Z-001\02T\StockManagement\StockManagement\obj\Debug\StockManagement.exe
+C:\Users\User\Downloads\02T-20230427T062949Z-001\02T\StockManagement\StockManagement\obj\Debug\StockManagement.pdb
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.AssemblyReference.cache
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.SuggestedBindingRedirects.cache
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\obj\Debug\StockManagement.Lib.Frame.MasterView.resources
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\obj\Debug\StockManagement.MainForm.resources
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ConnectSettingPop.resources
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ContactPop.resources
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemInPop.resources
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemOutPop.resources
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemSearchPop.resources
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.StockPop.resources
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.ContactView.resources
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.InItemsView.resources
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.OutItemsView.resources
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.StockView.resources
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\obj\Debug\StockManagement.exe
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\obj\Debug\StockManagement.pdb
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\bin\Debug\StockManagement.exe.config
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\bin\Debug\StockManagement.exe
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\bin\Debug\StockManagement.pdb
+D:\ksm\프로젝트실습\최대현\work\04T\StockManagement\StockManagement\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\bin\Debug\StockManagement.exe.config
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\bin\Debug\StockManagement.exe
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\bin\Debug\StockManagement.pdb
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\obj\Debug\StockManagement.Lib.Frame.MasterView.resources
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\obj\Debug\StockManagement.MainForm.resources
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ConnectSettingPop.resources
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ContactPop.resources
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemInPop.resources
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemOutPop.resources
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemSearchPop.resources
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.Pop.StockPop.resources
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.ContactView.resources
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.InItemsView.resources
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.OutItemsView.resources
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\obj\Debug\StockManagement.Windows.View.StockView.resources
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\obj\Debug\StockManagement.exe
+C:\Users\User\Downloads\StockManagement-20230503T013044Z-001 (2)\StockManagement\StockManagement\obj\Debug\StockManagement.pdb
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\bin\Debug\StockManagement.exe.config
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\bin\Debug\StockManagement.exe
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\bin\Debug\StockManagement.pdb
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\obj\Debug\StockManagement.csproj.AssemblyReference.cache
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\obj\Debug\StockManagement.csproj.SuggestedBindingRedirects.cache
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\obj\Debug\Lib.Frame.MasterPop.resources
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\obj\Debug\StockManagement.Lib.Frame.MasterView.resources
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\obj\Debug\StockManagement.MainForm.resources
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ConnectSettingPop.resources
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ContactPop.resources
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemInPop.resources
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemOutPop.resources
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemSearchPop.resources
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\obj\Debug\StockManagement.Windows.Pop.StockPop.resources
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\obj\Debug\StockManagement.Windows.View.ContactView.resources
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\obj\Debug\StockManagement.Windows.View.InItemsView.resources
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\obj\Debug\StockManagement.Windows.View.OutItemsView.resources
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\obj\Debug\StockManagement.Windows.View.StockView.resources
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\obj\Debug\StockManagement.exe
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\obj\Debug\StockManagement.pdb
+D:\ksm\프로젝트실습\최대현\work\06T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemQuanPop.resources
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\bin\Debug\StockManagement.exe.config
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\bin\Debug\StockManagement.exe
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\bin\Debug\StockManagement.pdb
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\obj\Debug\StockManagement.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\obj\Debug\StockManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\obj\Debug\StockManagement.Lib.Frame.MasterView.resources
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\obj\Debug\StockManagement.MainForm.resources
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ConnectSettingPop.resources
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ContactPop.resources
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemInPop.resources
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemOutPop.resources
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemQuanPop.resources
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemSearchPop.resources
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\obj\Debug\StockManagement.Windows.Pop.StockPop.resources
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\obj\Debug\StockManagement.Windows.View.ContactView.resources
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\obj\Debug\StockManagement.Windows.View.InItemsView.resources
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\obj\Debug\StockManagement.Windows.View.OutItemsView.resources
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\obj\Debug\StockManagement.Windows.View.StockView.resources
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\obj\Debug\StockManagement.exe
+C:\Users\User\Downloads\07T-20230503T050105Z-001\07T\StockManagement\obj\Debug\StockManagement.pdb
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\obj\Debug\StockManagement.csproj.AssemblyReference.cache
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\obj\Debug\StockManagement.csproj.SuggestedBindingRedirects.cache
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\obj\Debug\Lib.Frame.MasterPop.resources
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\obj\Debug\StockManagement.Lib.Frame.MasterView.resources
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\obj\Debug\StockManagement.MainForm.resources
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ConnectSettingPop.resources
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ContactPop.resources
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemInPop.resources
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemOutPop.resources
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemQuanPop.resources
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemSearchPop.resources
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\obj\Debug\StockManagement.Windows.Pop.StockPop.resources
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\obj\Debug\StockManagement.Windows.View.ContactView.resources
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\obj\Debug\StockManagement.Windows.View.InItemsView.resources
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\obj\Debug\StockManagement.Windows.View.OutItemsView.resources
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\obj\Debug\StockManagement.Windows.View.StockView.resources
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\obj\Debug\StockManagement.exe
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\obj\Debug\StockManagement.pdb
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\bin\Debug\StockManagement.exe.config
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\bin\Debug\StockManagement.exe
+D:\ksm\프로젝트실습\최대현\work\09T\StockManagement\bin\Debug\StockManagement.pdb
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\bin\Debug\StockManagement.exe.config
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\bin\Debug\StockManagement.exe
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\bin\Debug\StockManagement.pdb
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\obj\Debug\StockManagement.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\obj\Debug\StockManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\obj\Debug\StockManagement.Lib.Frame.MasterView.resources
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\obj\Debug\StockManagement.MainForm.resources
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ConnectSettingPop.resources
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ContactPop.resources
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemInPop.resources
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemOutPop.resources
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemQuanPop.resources
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemSearchPop.resources
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\obj\Debug\StockManagement.Windows.Pop.StockPop.resources
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\obj\Debug\StockManagement.Windows.View.ContactView.resources
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\obj\Debug\StockManagement.Windows.View.InItemsView.resources
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\obj\Debug\StockManagement.Windows.View.OutItemsView.resources
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\obj\Debug\StockManagement.Windows.View.StockView.resources
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\obj\Debug\StockManagement.exe
+C:\Users\User\Downloads\09T-20230504T002310Z-001 (2)\09T\StockManagement\obj\Debug\StockManagement.pdb
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\bin\Debug\StockManagement.exe.config
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\bin\Debug\StockManagement.exe
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\bin\Debug\StockManagement.pdb
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\obj\Debug\StockManagement.csproj.AssemblyReference.cache
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\obj\Debug\StockManagement.csproj.SuggestedBindingRedirects.cache
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\obj\Debug\Lib.Frame.MasterPop.resources
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\obj\Debug\StockManagement.Lib.Frame.MasterView.resources
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\obj\Debug\StockManagement.MainForm.resources
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ConnectSettingPop.resources
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ContactPop.resources
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemInPop.resources
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemOutPop.resources
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemQuanPop.resources
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemSearchPop.resources
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\obj\Debug\StockManagement.Windows.Pop.StockPop.resources
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\obj\Debug\StockManagement.Windows.View.ContactView.resources
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\obj\Debug\StockManagement.Windows.View.InItemsView.resources
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\obj\Debug\StockManagement.Windows.View.OutItemsView.resources
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\obj\Debug\StockManagement.Windows.View.StockView.resources
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\obj\Debug\StockManagement.exe
+D:\ksm\프로젝트실습\최대현\work\11T\StockManagement\obj\Debug\StockManagement.pdb
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\bin\Debug\StockManagement.exe.config
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\bin\Debug\StockManagement.exe
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\bin\Debug\StockManagement.pdb
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\obj\Debug\StockManagement.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\obj\Debug\StockManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\obj\Debug\StockManagement.Lib.Frame.MasterView.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\obj\Debug\StockManagement.MainForm.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ConnectSettingPop.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ContactPop.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemInPop.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemOutPop.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemQuanPop.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemSearchPop.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\obj\Debug\StockManagement.Windows.Pop.StockPop.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\obj\Debug\StockManagement.Windows.View.ContactView.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\obj\Debug\StockManagement.Windows.View.InItemsView.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\obj\Debug\StockManagement.Windows.View.OutItemsView.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\obj\Debug\StockManagement.Windows.View.StockView.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\obj\Debug\StockManagement.exe
+C:\Users\User\Downloads\11T-20230504T080848Z-001\11T\StockManagement\obj\Debug\StockManagement.pdb
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\bin\Debug\StockManagement.exe.config
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\bin\Debug\StockManagement.exe
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\bin\Debug\StockManagement.pdb
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\obj\Debug\StockManagement.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\obj\Debug\StockManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\obj\Debug\StockManagement.Lib.Frame.MasterView.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\obj\Debug\StockManagement.MainForm.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\obj\Debug\StockManagement.Windows.Pop.ConnectSettingPop.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\obj\Debug\StockManagement.Windows.Pop.ContactPop.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemInPop.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemOutPop.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemQuanPop.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemSearchPop.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\obj\Debug\StockManagement.Windows.Pop.StockPop.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\obj\Debug\StockManagement.Windows.View.ContactView.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\obj\Debug\StockManagement.Windows.View.InItemsView.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\obj\Debug\StockManagement.Windows.View.OutItemsView.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\obj\Debug\StockManagement.Windows.View.StockView.resources
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\obj\Debug\StockManagement.exe
+C:\Users\User\Downloads\11T-20230504T080848Z-001\13\StockManagement\obj\Debug\StockManagement.pdb
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\obj\Debug\StockManagement.csproj.AssemblyReference.cache
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\obj\Debug\StockManagement.csproj.SuggestedBindingRedirects.cache
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\obj\Debug\Lib.Frame.MasterPop.resources
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\obj\Debug\StockManagement.Lib.Frame.MasterView.resources
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\obj\Debug\StockManagement.MainForm.resources
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ConnectSettingPop.resources
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ContactPop.resources
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemInPop.resources
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemOutPop.resources
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemQuanPop.resources
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemSearchPop.resources
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\obj\Debug\StockManagement.Windows.Pop.StockPop.resources
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\obj\Debug\StockManagement.Windows.View.ContactView.resources
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\obj\Debug\StockManagement.Windows.View.InItemsView.resources
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\obj\Debug\StockManagement.Windows.View.OutItemsView.resources
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\obj\Debug\StockManagement.Windows.View.StockView.resources
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\obj\Debug\StockManagement.exe
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\obj\Debug\StockManagement.pdb
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\bin\Debug\StockManagement.exe.config
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\bin\Debug\StockManagement.exe
+D:\ksm\프로젝트실습\최대현\work\14T\StockManagement\bin\Debug\StockManagement.pdb
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\bin\Debug\StockManagement.exe.config
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\bin\Debug\StockManagement.exe
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\bin\Debug\StockManagement.pdb
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\obj\Debug\StockManagement.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\obj\Debug\StockManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\obj\Debug\StockManagement.Lib.Frame.MasterView.resources
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\obj\Debug\StockManagement.MainForm.resources
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ConnectSettingPop.resources
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ContactPop.resources
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemInPop.resources
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemOutPop.resources
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemQuanPop.resources
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemSearchPop.resources
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\obj\Debug\StockManagement.Windows.Pop.StockPop.resources
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\obj\Debug\StockManagement.Windows.View.ContactView.resources
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\obj\Debug\StockManagement.Windows.View.InItemsView.resources
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\obj\Debug\StockManagement.Windows.View.OutItemsView.resources
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\obj\Debug\StockManagement.Windows.View.StockView.resources
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\obj\Debug\StockManagement.exe
+C:\Users\User\Downloads\14T-20230510T075523Z-001\14T\StockManagement\obj\Debug\StockManagement.pdb
+D:\ksm\프로젝트실습\최대현\work\16T\StockManagement\bin\Debug\StockManagement.exe.config
+D:\ksm\프로젝트실습\최대현\work\16T\StockManagement\bin\Debug\StockManagement.exe
+D:\ksm\프로젝트실습\최대현\work\16T\StockManagement\bin\Debug\StockManagement.pdb
+D:\ksm\프로젝트실습\최대현\work\16T\StockManagement\obj\Debug\Lib.Frame.MasterPop.resources
+D:\ksm\프로젝트실습\최대현\work\16T\StockManagement\obj\Debug\StockManagement.Lib.Frame.MasterView.resources
+D:\ksm\프로젝트실습\최대현\work\16T\StockManagement\obj\Debug\StockManagement.MainForm.resources
+D:\ksm\프로젝트실습\최대현\work\16T\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+D:\ksm\프로젝트실습\최대현\work\16T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ConnectSettingPop.resources
+D:\ksm\프로젝트실습\최대현\work\16T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ContactPop.resources
+D:\ksm\프로젝트실습\최대현\work\16T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemInPop.resources
+D:\ksm\프로젝트실습\최대현\work\16T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemOutPop.resources
+D:\ksm\프로젝트실습\최대현\work\16T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemQuanPop.resources
+D:\ksm\프로젝트실습\최대현\work\16T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemSearchPop.resources
+D:\ksm\프로젝트실습\최대현\work\16T\StockManagement\obj\Debug\StockManagement.Windows.Pop.StockPop.resources
+D:\ksm\프로젝트실습\최대현\work\16T\StockManagement\obj\Debug\StockManagement.Windows.View.ContactView.resources
+D:\ksm\프로젝트실습\최대현\work\16T\StockManagement\obj\Debug\StockManagement.Windows.View.InItemsView.resources
+D:\ksm\프로젝트실습\최대현\work\16T\StockManagement\obj\Debug\StockManagement.Windows.View.OutItemsView.resources
+D:\ksm\프로젝트실습\최대현\work\16T\StockManagement\obj\Debug\StockManagement.Windows.View.StockView.resources
+D:\ksm\프로젝트실습\최대현\work\16T\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+D:\ksm\프로젝트실습\최대현\work\16T\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+D:\ksm\프로젝트실습\최대현\work\16T\StockManagement\obj\Debug\StockManagement.exe
+D:\ksm\프로젝트실습\최대현\work\16T\StockManagement\obj\Debug\StockManagement.pdb
+C:\Users\User\Downloads\16T\StockManagement\bin\Debug\StockManagement.exe.config
+C:\Users\User\Downloads\16T\StockManagement\bin\Debug\StockManagement.exe
+C:\Users\User\Downloads\16T\StockManagement\bin\Debug\StockManagement.pdb
+C:\Users\User\Downloads\16T\StockManagement\obj\Debug\StockManagement.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\16T\StockManagement\obj\Debug\StockManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\16T\StockManagement\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\User\Downloads\16T\StockManagement\obj\Debug\StockManagement.Lib.Frame.MasterView.resources
+C:\Users\User\Downloads\16T\StockManagement\obj\Debug\StockManagement.MainForm.resources
+C:\Users\User\Downloads\16T\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+C:\Users\User\Downloads\16T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ConnectSettingPop.resources
+C:\Users\User\Downloads\16T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ContactPop.resources
+C:\Users\User\Downloads\16T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemInPop.resources
+C:\Users\User\Downloads\16T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemOutPop.resources
+C:\Users\User\Downloads\16T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemQuanPop.resources
+C:\Users\User\Downloads\16T\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemSearchPop.resources
+C:\Users\User\Downloads\16T\StockManagement\obj\Debug\StockManagement.Windows.Pop.StockPop.resources
+C:\Users\User\Downloads\16T\StockManagement\obj\Debug\StockManagement.Windows.View.ContactView.resources
+C:\Users\User\Downloads\16T\StockManagement\obj\Debug\StockManagement.Windows.View.InItemsView.resources
+C:\Users\User\Downloads\16T\StockManagement\obj\Debug\StockManagement.Windows.View.OutItemsView.resources
+C:\Users\User\Downloads\16T\StockManagement\obj\Debug\StockManagement.Windows.View.StockView.resources
+C:\Users\User\Downloads\16T\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+C:\Users\User\Downloads\16T\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\16T\StockManagement\obj\Debug\StockManagement.exe
+C:\Users\User\Downloads\16T\StockManagement\obj\Debug\StockManagement.pdb
+C:\Users\User\Downloads\17\StockManagement\bin\Debug\StockManagement.exe.config
+C:\Users\User\Downloads\17\StockManagement\bin\Debug\StockManagement.exe
+C:\Users\User\Downloads\17\StockManagement\bin\Debug\StockManagement.pdb
+C:\Users\User\Downloads\17\StockManagement\obj\Debug\StockManagement.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\17\StockManagement\obj\Debug\StockManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\17\StockManagement\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\User\Downloads\17\StockManagement\obj\Debug\StockManagement.Lib.Frame.MasterView.resources
+C:\Users\User\Downloads\17\StockManagement\obj\Debug\StockManagement.MainForm.resources
+C:\Users\User\Downloads\17\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+C:\Users\User\Downloads\17\StockManagement\obj\Debug\StockManagement.Windows.Pop.ConnectSettingPop.resources
+C:\Users\User\Downloads\17\StockManagement\obj\Debug\StockManagement.Windows.Pop.ContactPop.resources
+C:\Users\User\Downloads\17\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemInPop.resources
+C:\Users\User\Downloads\17\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemOutPop.resources
+C:\Users\User\Downloads\17\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemQuanPop.resources
+C:\Users\User\Downloads\17\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemSearchPop.resources
+C:\Users\User\Downloads\17\StockManagement\obj\Debug\StockManagement.Windows.Pop.StockPop.resources
+C:\Users\User\Downloads\17\StockManagement\obj\Debug\StockManagement.Windows.View.ContactView.resources
+C:\Users\User\Downloads\17\StockManagement\obj\Debug\StockManagement.Windows.View.InItemsView.resources
+C:\Users\User\Downloads\17\StockManagement\obj\Debug\StockManagement.Windows.View.OutItemsView.resources
+C:\Users\User\Downloads\17\StockManagement\obj\Debug\StockManagement.Windows.View.StockView.resources
+C:\Users\User\Downloads\17\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+C:\Users\User\Downloads\17\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\17\StockManagement\obj\Debug\StockManagement.exe
+C:\Users\User\Downloads\17\StockManagement\obj\Debug\StockManagement.pdb
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\bin\Debug\StockManagement.exe.config
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\bin\Debug\StockManagement.exe
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\bin\Debug\StockManagement.pdb
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\obj\Debug\StockManagement.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\obj\Debug\StockManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\obj\Debug\Lib.Frame.MasterPop.resources
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\obj\Debug\StockManagement.Lib.Frame.MasterView.resources
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\obj\Debug\StockManagement.MainForm.resources
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\obj\Debug\StockManagement.Windows.Pop.ConnectSettingPop.resources
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\obj\Debug\StockManagement.Windows.Pop.ContactPop.resources
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemInPop.resources
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemOutPop.resources
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemQuanPop.resources
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\obj\Debug\StockManagement.Windows.Pop.ItemSearchPop.resources
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\obj\Debug\StockManagement.Windows.Pop.StockPop.resources
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\obj\Debug\StockManagement.Windows.View.ContactView.resources
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\obj\Debug\StockManagement.Windows.View.InItemsView.resources
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\obj\Debug\StockManagement.Windows.View.OutItemsView.resources
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\obj\Debug\StockManagement.Windows.View.StockView.resources
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\obj\Debug\StockManagement.exe
+C:\Users\User\Downloads\최대현DB활용APP개발\StockManagement\obj\Debug\StockManagement.pdb

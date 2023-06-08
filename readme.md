@@ -18,10 +18,7 @@
 <br>
 <br>
 
-<p class="p2">※※ 작성한 코드 양의 관계로 주요 기능 위주로 소개하였습니다. ※※</p>
-<style type="text/css">
-    [class*="p2"]{margin-left:45%; color:red}
-</style>
+<span style="color: red">작성한 코드 양의 관계로 주요 기능만 소개하였습니다.</span>
 
 
 ## 구동 과정

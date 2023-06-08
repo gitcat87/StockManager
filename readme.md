@@ -5,7 +5,7 @@
 <br>
 
 ## 작동 목표
-#
+
 * 사용자는 재고 관리 프로그램을 통해서 상품관리(등록,삭제,수정 등) 및 연락처 관리를 할 수 있다.
 * 사용자는 재고관리 뿐만 아니라 상품의 입/출고를 관리 할 수 있다.
 * 사용자는 DB정보와 사용자 정보를 읽고 변경할 수 있다.
@@ -13,7 +13,7 @@
 <br>
 
 ## 개발 환경
-#
+
 * C#, Visual Studio, Oracle DB, Oracle Dvelopement
 <br>
 <br>
@@ -25,7 +25,7 @@
 
 
 ## 구동 과정
-#
+
 ![](https://github.com/gitcat87/StockManager/blob/main/images/capture1.png?raw=true)
 #
 ```C#
@@ -119,7 +119,7 @@
 <br>
 
 ## 조회버튼을 눌렀을 때
-#
+
 ![](https://github.com/gitcat87/StockManager/blob/main/images/capture1.png?raw=true)
 #
 ```C#
@@ -365,7 +365,7 @@ private void Initialize(ePopMode aPopMode, object aParam)
 
 
 ## 입출고 조회
-#
+
 
 
 ![](https://github.com/gitcat87/StockManager/blob/main/images/capture4.png?raw=true)
@@ -476,7 +476,7 @@ private void Initialize(ePopMode aPopMode, object aParam)
 <br>
 
 ## 입출고 등록
-#
+
 
 ![](https://github.com/gitcat87/StockManager/blob/main/images/capture5.png?raw=true)
 

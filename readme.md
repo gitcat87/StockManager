@@ -18,7 +18,7 @@
 <br>
 <br>
 
-<span style="color: red">작성한 코드 양의 관계로 주요 기능만 소개하였습니다.</span>
+<span style="color: red;">작성한 코드 양의 관계로 주요 기능만 소개하였습니다.</span>
 
 
 ## 구동 과정

@@ -18,7 +18,7 @@
 <br>
 <br>
 
-<span style="color: red;">작성한 코드 양의 관계로 주요 기능만 소개하였습니다.</span>
+작성한 코드 양의 관계로 주요 기능만 소개하였습니다.
 
 
 ## 구동 과정
@@ -367,10 +367,8 @@ private void Initialize(ePopMode aPopMode, object aParam)
 
 ![](https://github.com/gitcat87/StockManager/blob/main/images/capture4.png?raw=true)
 ![](https://github.com/gitcat87/StockManager/blob/main/images/capture14.png?raw=true)
-<p class="p1">(예시)출고 화면</p>
-<style type="text/css">
-    [class*="p1"]{margin-left:45%; color:gray}
-</style>
+(예시)출고 화면
+
 
 
 #
